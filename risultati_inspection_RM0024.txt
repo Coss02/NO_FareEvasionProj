@@ -1,0 +1,1842 @@
+RISULTATI ANALISI INSPECTION ROUTE
+============================================================
+
+Origine:      RM0024
+
+Fermate attraversate: 305
+Archi attraversati:   304
+Costo totale:         121328.5960
+Risk totale:          146.6037
+P(≥1 evasore):        100.0000%
+
+PERCORSO COMPLETO:
+------------------------------------------------------------
+  1. RM0024
+  2. PM0832
+  3. CF0042
+  4. RM0739
+  5. RM0026
+  6. RM0739
+  7. CF0042
+  8. CF0046
+  9. CF0042
+ 10. PM0832
+ 11. RM0024
+ 12. RM0734
+ 13. RM0024
+ 14. CF0043
+ 15. RM0024
+ 16. RM0734
+ 17. BO0266
+ 18. BO0268
+ 19. BO0266
+ 20. RM0734
+ 21. RM0024
+ 22. PM0832
+ 23. LY0033
+ 24. PM0832
+ 25. RM0024
+ 26. RM0734
+ 27. BO0266
+ 28. BO0268
+ 29. BO0277
+ 30. BO0268
+ 31. BO0266
+ 32. RM0734
+ 33. RM0024
+ 34. PM0832
+ 35. LY0033
+ 36. LY0035
+ 37. LY0033
+ 38. PM0832
+ 39. RM0024
+ 40. RM0734
+ 41. BO0266
+ 42. BO0268
+ 43. DA0270
+ 44. BO0268
+ 45. BO0266
+ 46. RM0734
+ 47. RM0024
+ 48. PM0832
+ 49. LY0037
+ 50. PM0832
+ 51. RM0024
+ 52. RM0734
+ 53. BO0266
+ 54. BO0268
+ 55. BO0277
+ 56. MI0280
+ 57. BO0277
+ 58. BO0268
+ 59. BO0266
+ 60. RM0734
+ 61. RM0024
+ 62. PM0832
+ 63. LY0033
+ 64. PM1168
+ 65. LY0033
+ 66. PM0832
+ 67. RM0024
+ 68. RM0734
+ 69. BO0266
+ 70. BO0268
+ 71. BO0277
+ 72. MI0280
+ 73. MI0284
+ 74. MI0286
+ 75. DP0294
+ 76. DP0296
+ 77. LP0308
+ 78. DP0296
+ 79. DP0294
+ 80. MI0286
+ 81. MI0284
+ 82. MI0280
+ 83. BO0277
+ 84. BO0268
+ 85. DA0270
+ 86. DA0196
+ 87. BE0217
+ 88. PL0198
+ 89. AL0017
+ 90. PL0198
+ 91. BE0217
+ 92. DA0196
+ 93. DA0270
+ 94. BO0268
+ 95. BO0277
+ 96. MI0280
+ 97. MI0284
+ 98. MI0286
+ 99. DP0294
+100. DP0296
+101. LP0308
+102. LS0972
+103. GG0348
+104. LP0350
+105. LP0352
+106. LP0354
+107. LP0356
+108. LP0948
+109. LP0374
+110. LP0376
+111. LP0377
+112. LP0379
+113. LP0381
+114. GQ0383
+115. GQ0385
+116. GQ0383
+117. LP0381
+118. LP0379
+119. LP0377
+120. LP0376
+121. LP0374
+122. LP0948
+123. LP0356
+124. LP0354
+125. LP0352
+126. LP0350
+127. GG0348
+128. LS0972
+129. LP0308
+130. DP0296
+131. DP0294
+132. MI0286
+133. MI0284
+134. MI0280
+135. BO0277
+136. BO0268
+137. DA0270
+138. DA0196
+139. PG0221
+140. FE0224
+141. PG0221
+142. PG0222
+143. PG0221
+144. DA0196
+145. DA0270
+146. BO0268
+147. BO0277
+148. MI0280
+149. MI0284
+150. MI0286
+151. DP0294
+152. DP0296
+153. LP0308
+154. LS0972
+155. GG0348
+156. LP0350
+157. LP0352
+158. LP0354
+159. LP0356
+160. LP0948
+161. LP0374
+162. LP0376
+163. LP0377
+164. LP0379
+165. LP0381
+166. GQ0383
+167. GQ0385
+168. GQ0387
+169. GQ0385
+170. GQ0383
+171. LP0381
+172. LP0379
+173. LP0377
+174. LP0376
+175. LP0374
+176. LP0948
+177. LP0356
+178. LP0354
+179. LP0352
+180. LP0350
+181. GG0348
+182. LS0972
+183. LP0308
+184. DP0296
+185. DP0294
+186. MI0286
+187. MI0284
+188. MI0280
+189. BO0277
+190. BO0268
+191. DA0270
+192. DA0196
+193. PG0221
+194. PG0222
+195. FE0223
+196. PG0222
+197. PG0221
+198. DA0196
+199. DA0270
+200. BO0268
+201. BO0277
+202. MI0280
+203. MI0284
+204. MI0286
+205. DP0294
+206. DP0296
+207. LP0308
+208. LS0972
+209. GG0348
+210. LP0350
+211. LP0352
+212. LP0354
+213. LP0356
+214. LP0948
+215. LP0374
+216. LP0376
+217. LP0377
+218. LP0379
+219. LP0381
+220. GQ0383
+221. GQ0385
+222. GQ0387
+223. GQ0389
+224. GQ0387
+225. GQ0385
+226. GQ0383
+227. LP0381
+228. LP0379
+229. LP0377
+230. LP0376
+231. LP0374
+232. LP0948
+233. LP0356
+234. LP0354
+235. LP0352
+236. LP0350
+237. GG0348
+238. LS0972
+239. LP0308
+240. DP0296
+241. DP0294
+242. MI0286
+243. MI0284
+244. MI0280
+245. BO0277
+246. BO0268
+247. DA0270
+248. DA0196
+249. PG0221
+250. PG0222
+251. DA0273
+252. PG0222
+253. PG0221
+254. DA0196
+255. DA0270
+256. BO0268
+257. BO0277
+258. MI0280
+259. MI0284
+260. MI0286
+261. DP0294
+262. DP0296
+263. LP0308
+264. LS0972
+265. GG0348
+266. LP0350
+267. LP0352
+268. LP0354
+269. LP0356
+270. LP0948
+271. LP0374
+272. LP0376
+273. LP0377
+274. LP0379
+275. LP0381
+276. GQ0383
+277. GQ0385
+278. GQ0387
+279. GQ0389
+280. GQ0397
+281. GQ0399
+282. MR0401
+283. MR0403
+284. MR0405
+285. MR0407
+286. MR0409
+287. MR0411
+288. MR0755
+289. DV0415
+290. DV0417
+291. DV0729
+292. DV0421
+293. DV0423
+294. DV0419
+295. DV0425
+296. FL0494
+297. PV0475
+298. PV0429
+299. PV0431
+300. PV0433
+301. PV0435
+302. PV0437
+303. PV0439
+304. PV0441
+305. TM0442
+
+
+DETTAGLIO ARCHI (ordinati per probabilità):
+------------------------------------------------------------
+
+Arco 1: RM0739 → RM0026
+  Probabilità: 100.0000%
+  Risk:        27.6310
+  Costo:       251.9063
+
+Arco 2: RM0026 → RM0739
+  Probabilità: 100.0000%
+  Risk:        27.6310
+  Costo:       251.9063
+
+Arco 3: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 4: RM0734 → RM0024
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 5: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 6: RM0734 → RM0024
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 7: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 8: RM0734 → RM0024
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 9: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 10: RM0734 → RM0024
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 11: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 12: RM0734 → RM0024
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 13: RM0024 → RM0734
+  Probabilità: 96.8222%
+  Risk:        3.4490
+  Costo:       259.7042
+
+Arco 14: BO0266 → BO0268
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 15: BO0268 → BO0266
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 16: BO0266 → BO0268
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 17: BO0268 → BO0266
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 18: BO0266 → BO0268
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 19: BO0268 → BO0266
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 20: BO0266 → BO0268
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 21: BO0268 → BO0266
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 22: BO0266 → BO0268
+  Probabilità: 51.5310%
+  Risk:        0.7242
+  Costo:       214.6953
+
+Arco 23: RM0734 → BO0266
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 24: BO0266 → RM0734
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 25: RM0734 → BO0266
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 26: BO0266 → RM0734
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 27: RM0734 → BO0266
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 28: BO0266 → RM0734
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 29: RM0734 → BO0266
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 30: BO0266 → RM0734
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 31: RM0734 → BO0266
+  Probabilità: 51.1121%
+  Risk:        0.7156
+  Costo:       577.5311
+
+Arco 32: PV0475 → PV0429
+  Probabilità: 40.1825%
+  Risk:        0.5139
+  Costo:       227.8448
+
+Arco 33: LP0376 → LP0377
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 34: LP0377 → LP0376
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 35: LP0376 → LP0377
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 36: LP0377 → LP0376
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 37: LP0376 → LP0377
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 38: LP0377 → LP0376
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 39: LP0376 → LP0377
+  Probabilità: 39.4971%
+  Risk:        0.5025
+  Costo:       247.5339
+
+Arco 40: DP0296 → LP0308
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 41: LP0308 → DP0296
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 42: DP0296 → LP0308
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 43: LP0308 → DP0296
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 44: DP0296 → LP0308
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 45: LP0308 → DP0296
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 46: DP0296 → LP0308
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 47: LP0308 → DP0296
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 48: DP0296 → LP0308
+  Probabilità: 36.8661%
+  Risk:        0.4599
+  Costo:       456.8309
+
+Arco 49: DP0294 → DP0296
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 50: DP0296 → DP0294
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 51: DP0294 → DP0296
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 52: DP0296 → DP0294
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 53: DP0294 → DP0296
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 54: DP0296 → DP0294
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 55: DP0294 → DP0296
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 56: DP0296 → DP0294
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 57: DP0294 → DP0296
+  Probabilità: 32.3813%
+  Risk:        0.3913
+  Costo:       222.8361
+
+Arco 58: GQ0383 → GQ0385
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 59: GQ0385 → GQ0383
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 60: GQ0383 → GQ0385
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 61: GQ0385 → GQ0383
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 62: GQ0383 → GQ0385
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 63: GQ0385 → GQ0383
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 64: GQ0383 → GQ0385
+  Probabilità: 31.8553%
+  Risk:        0.3835
+  Costo:       522.4151
+
+Arco 65: LP0948 → LP0374
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 66: LP0374 → LP0948
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 67: LP0948 → LP0374
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 68: LP0374 → LP0948
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 69: LP0948 → LP0374
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 70: LP0374 → LP0948
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 71: LP0948 → LP0374
+  Probabilità: 28.9910%
+  Risk:        0.3424
+  Costo:       317.6680
+
+Arco 72: LP0381 → GQ0383
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 73: GQ0383 → LP0381
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 74: LP0381 → GQ0383
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 75: GQ0383 → LP0381
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 76: LP0381 → GQ0383
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 77: GQ0383 → LP0381
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 78: LP0381 → GQ0383
+  Probabilità: 28.3389%
+  Risk:        0.3332
+  Costo:       476.6842
+
+Arco 79: LP0377 → LP0379
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 80: LP0379 → LP0377
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 81: LP0377 → LP0379
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 82: LP0379 → LP0377
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 83: LP0377 → LP0379
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 84: LP0379 → LP0377
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 85: LP0377 → LP0379
+  Probabilità: 27.1762%
+  Risk:        0.3171
+  Costo:       551.6370
+
+Arco 86: DA0196 → BE0217
+  Probabilità: 26.5508%
+  Risk:        0.3086
+  Costo:       570.7046
+
+Arco 87: BE0217 → DA0196
+  Probabilità: 26.5508%
+  Risk:        0.3086
+  Costo:       570.7046
+
+Arco 88: FL0494 → PV0475
+  Probabilità: 23.5121%
+  Risk:        0.2680
+  Costo:       990.8376
+
+Arco 89: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 90: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 91: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 92: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 93: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 94: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 95: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 96: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 97: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 98: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 99: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 100: BO0277 → BO0268
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 101: BO0268 → BO0277
+  Probabilità: 23.3860%
+  Risk:        0.2664
+  Costo:       364.9080
+
+Arco 102: LP0379 → LP0381
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 103: LP0381 → LP0379
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 104: LP0379 → LP0381
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 105: LP0381 → LP0379
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 106: LP0379 → LP0381
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 107: LP0381 → LP0379
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 108: LP0379 → LP0381
+  Probabilità: 22.9798%
+  Risk:        0.2611
+  Costo:       522.4550
+
+Arco 109: PV0435 → PV0437
+  Probabilità: 21.0353%
+  Risk:        0.2362
+  Costo:       632.3683
+
+Arco 110: PG0221 → FE0224
+  Probabilità: 20.8613%
+  Risk:        0.2340
+  Costo:       200.6346
+
+Arco 111: FE0224 → PG0221
+  Probabilità: 20.8613%
+  Risk:        0.2340
+  Costo:       200.6346
+
+Arco 112: LP0374 → LP0376
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 113: LP0376 → LP0374
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 114: LP0374 → LP0376
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 115: LP0376 → LP0374
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 116: LP0374 → LP0376
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 117: LP0376 → LP0374
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 118: LP0374 → LP0376
+  Probabilità: 18.6176%
+  Risk:        0.2060
+  Costo:       269.4236
+
+Arco 119: MI0286 → DP0294
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 120: DP0294 → MI0286
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 121: MI0286 → DP0294
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 122: DP0294 → MI0286
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 123: MI0286 → DP0294
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 124: DP0294 → MI0286
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 125: MI0286 → DP0294
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 126: DP0294 → MI0286
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 127: MI0286 → DP0294
+  Probabilità: 18.1602%
+  Risk:        0.2004
+  Costo:       146.7302
+
+Arco 128: MR0755 → DV0415
+  Probabilità: 17.5913%
+  Risk:        0.1935
+  Costo:       260.9682
+
+Arco 129: DV0425 → FL0494
+  Probabilità: 16.2535%
+  Risk:        0.1774
+  Costo:       609.8204
+
+Arco 130: DV0417 → DV0729
+  Probabilità: 16.2146%
+  Risk:        0.1769
+  Costo:       909.1795
+
+Arco 131: PL0198 → AL0017
+  Probabilità: 16.0558%
+  Risk:        0.1750
+  Costo:       274.3469
+
+Arco 132: AL0017 → PL0198
+  Probabilità: 16.0558%
+  Risk:        0.1750
+  Costo:       274.3469
+
+Arco 133: PV0441 → TM0442
+  Probabilità: 15.8825%
+  Risk:        0.1730
+  Costo:       387.3184
+
+Arco 134: BE0217 → PL0198
+  Probabilità: 15.0940%
+  Risk:        0.1636
+  Costo:       330.2103
+
+Arco 135: PL0198 → BE0217
+  Probabilità: 15.0940%
+  Risk:        0.1636
+  Costo:       330.2103
+
+Arco 136: DV0421 → DV0423
+  Probabilità: 15.0047%
+  Risk:        0.1626
+  Costo:       429.4971
+
+Arco 137: MI0284 → MI0286
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 138: MI0286 → MI0284
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 139: MI0284 → MI0286
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 140: MI0286 → MI0284
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 141: MI0284 → MI0286
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 142: MI0286 → MI0284
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 143: MI0284 → MI0286
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 144: MI0286 → MI0284
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 145: MI0284 → MI0286
+  Probabilità: 14.9386%
+  Risk:        0.1618
+  Costo:       201.5511
+
+Arco 146: PV0429 → PV0431
+  Probabilità: 14.3970%
+  Risk:        0.1554
+  Costo:       597.9999
+
+Arco 147: DV0415 → DV0417
+  Probabilità: 14.1548%
+  Risk:        0.1526
+  Costo:       467.5967
+
+Arco 148: PV0439 → PV0441
+  Probabilità: 14.0167%
+  Risk:        0.1510
+  Costo:       1021.8922
+
+Arco 149: GQ0397 → GQ0399
+  Probabilità: 11.1097%
+  Risk:        0.1178
+  Costo:       635.2229
+
+Arco 150: CF0042 → RM0739
+  Probabilità: 10.9381%
+  Risk:        0.1158
+  Costo:       82.8790
+
+Arco 151: RM0739 → CF0042
+  Probabilità: 10.9381%
+  Risk:        0.1158
+  Costo:       82.8790
+
+Arco 152: DV0423 → DV0419
+  Probabilità: 10.0389%
+  Risk:        0.1058
+  Costo:       516.0455
+
+Arco 153: MR0401 → MR0403
+  Probabilità: 9.8247%
+  Risk:        0.1034
+  Costo:       296.9621
+
+Arco 154: MR0409 → MR0411
+  Probabilità: 9.6075%
+  Risk:        0.1010
+  Costo:       465.9789
+
+Arco 155: MR0403 → MR0405
+  Probabilità: 9.3104%
+  Risk:        0.0977
+  Costo:       182.4279
+
+Arco 156: RM0024 → CF0043
+  Probabilità: 9.1529%
+  Risk:        0.0960
+  Costo:       160.0426
+
+Arco 157: CF0043 → RM0024
+  Probabilità: 9.1529%
+  Risk:        0.0960
+  Costo:       160.0426
+
+Arco 158: PV0433 → PV0435
+  Probabilità: 8.6078%
+  Risk:        0.0900
+  Costo:       347.8037
+
+Arco 159: PM0832 → CF0042
+  Probabilità: 8.5283%
+  Risk:        0.0891
+  Costo:       160.3285
+
+Arco 160: CF0042 → PM0832
+  Probabilità: 8.5283%
+  Risk:        0.0891
+  Costo:       160.3285
+
+Arco 161: MR0405 → MR0407
+  Probabilità: 8.2473%
+  Risk:        0.0861
+  Costo:       446.5149
+
+Arco 162: PV0437 → PV0439
+  Probabilità: 8.0076%
+  Risk:        0.0835
+  Costo:       1009.0391
+
+Arco 163: CF0042 → CF0046
+  Probabilità: 7.9681%
+  Risk:        0.0830
+  Costo:       245.4891
+
+Arco 164: CF0046 → CF0042
+  Probabilità: 7.9681%
+  Risk:        0.0830
+  Costo:       245.4891
+
+Arco 165: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 166: MI0280 → BO0277
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 167: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 168: MI0280 → BO0277
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 169: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 170: MI0280 → BO0277
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 171: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 172: MI0280 → BO0277
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 173: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 174: MI0280 → BO0277
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 175: BO0277 → MI0280
+  Probabilità: 7.9057%
+  Risk:        0.0824
+  Costo:       277.7938
+
+Arco 176: MR0411 → MR0755
+  Probabilità: 7.5574%
+  Risk:        0.0786
+  Costo:       270.5695
+
+Arco 177: PG0222 → FE0223
+  Probabilità: 7.4416%
+  Risk:        0.0773
+  Costo:       224.0198
+
+Arco 178: FE0223 → PG0222
+  Probabilità: 7.4416%
+  Risk:        0.0773
+  Costo:       224.0198
+
+Arco 179: PV0431 → PV0433
+  Probabilità: 7.3282%
+  Risk:        0.0761
+  Costo:       361.7727
+
+Arco 180: MR0407 → MR0409
+  Probabilità: 7.1323%
+  Risk:        0.0740
+  Costo:       410.1551
+
+Arco 181: GQ0387 → GQ0389
+  Probabilità: 7.0302%
+  Risk:        0.0729
+  Costo:       589.4009
+
+Arco 182: GQ0389 → GQ0387
+  Probabilità: 7.0302%
+  Risk:        0.0729
+  Costo:       589.4009
+
+Arco 183: GQ0387 → GQ0389
+  Probabilità: 7.0302%
+  Risk:        0.0729
+  Costo:       589.4009
+
+Arco 184: DV0729 → DV0421
+  Probabilità: 6.6149%
+  Risk:        0.0684
+  Costo:       421.5874
+
+Arco 185: DV0419 → DV0425
+  Probabilità: 6.2276%
+  Risk:        0.0643
+  Costo:       259.7521
+
+Arco 186: GQ0389 → GQ0397
+  Probabilità: 6.1798%
+  Risk:        0.0638
+  Costo:       337.9187
+
+Arco 187: RM0024 → PM0832
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 188: PM0832 → RM0024
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 189: RM0024 → PM0832
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 190: PM0832 → RM0024
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 191: RM0024 → PM0832
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 192: PM0832 → RM0024
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 193: RM0024 → PM0832
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 194: PM0832 → RM0024
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 195: RM0024 → PM0832
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 196: PM0832 → RM0024
+  Probabilità: 5.9017%
+  Risk:        0.0608
+  Costo:       231.7923
+
+Arco 197: MI0280 → MI0284
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 198: MI0284 → MI0280
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 199: MI0280 → MI0284
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 200: MI0284 → MI0280
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 201: MI0280 → MI0284
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 202: MI0284 → MI0280
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 203: MI0280 → MI0284
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 204: MI0284 → MI0280
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 205: MI0280 → MI0284
+  Probabilità: 4.9585%
+  Risk:        0.0509
+  Costo:       212.9848
+
+Arco 206: GQ0385 → GQ0387
+  Probabilità: 4.8362%
+  Risk:        0.0496
+  Costo:       732.0334
+
+Arco 207: GQ0387 → GQ0385
+  Probabilità: 4.8362%
+  Risk:        0.0496
+  Costo:       732.0334
+
+Arco 208: GQ0385 → GQ0387
+  Probabilità: 4.8362%
+  Risk:        0.0496
+  Costo:       732.0334
+
+Arco 209: GQ0387 → GQ0385
+  Probabilità: 4.8362%
+  Risk:        0.0496
+  Costo:       732.0334
+
+Arco 210: GQ0385 → GQ0387
+  Probabilità: 4.8362%
+  Risk:        0.0496
+  Costo:       732.0334
+
+Arco 211: PM0832 → LY0033
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 212: LY0033 → PM0832
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 213: PM0832 → LY0033
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 214: LY0033 → LY0035
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       201.9997
+
+Arco 215: LY0035 → LY0033
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       201.9997
+
+Arco 216: LY0033 → PM0832
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 217: BO0268 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 218: DA0270 → BO0268
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 219: PM0832 → LY0037
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       712.9710
+
+Arco 220: LY0037 → PM0832
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       712.9710
+
+Arco 221: PM0832 → LY0033
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 222: LY0033 → PM1168
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       415.6370
+
+Arco 223: PM1168 → LY0033
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       415.6370
+
+Arco 224: LY0033 → PM0832
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       436.4216
+
+Arco 225: BO0268 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 226: DA0270 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 227: DA0196 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 228: DA0270 → BO0268
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 229: LP0308 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 230: LS0972 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 231: GG0348 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 232: LP0350 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 233: LP0352 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 234: LP0354 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 235: LP0356 → LP0948
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 236: LP0948 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 237: LP0356 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 238: LP0354 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 239: LP0352 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 240: LP0350 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 241: GG0348 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 242: LS0972 → LP0308
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 243: BO0268 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 244: DA0270 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 245: DA0196 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 246: PG0221 → PG0222
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 247: PG0222 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 248: PG0221 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 249: DA0196 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 250: DA0270 → BO0268
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 251: LP0308 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 252: LS0972 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 253: GG0348 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 254: LP0350 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 255: LP0352 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 256: LP0354 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 257: LP0356 → LP0948
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 258: LP0948 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 259: LP0356 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 260: LP0354 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 261: LP0352 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 262: LP0350 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 263: GG0348 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 264: LS0972 → LP0308
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 265: BO0268 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 266: DA0270 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 267: DA0196 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 268: PG0221 → PG0222
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 269: PG0222 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 270: PG0221 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 271: DA0196 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 272: DA0270 → BO0268
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 273: LP0308 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 274: LS0972 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 275: GG0348 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 276: LP0350 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 277: LP0352 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 278: LP0354 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 279: LP0356 → LP0948
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 280: LP0948 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 281: LP0356 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 282: LP0354 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 283: LP0352 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 284: LP0350 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 285: GG0348 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 286: LS0972 → LP0308
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 287: BO0268 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 288: DA0270 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 289: DA0196 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 290: PG0221 → PG0222
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 291: PG0222 → DA0273
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1262.8263
+
+Arco 292: DA0273 → PG0222
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1262.8263
+
+Arco 293: PG0222 → PG0221
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       25.4373
+
+Arco 294: PG0221 → DA0196
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1147.2895
+
+Arco 295: DA0196 → DA0270
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       370.6002
+
+Arco 296: DA0270 → BO0268
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       426.0714
+
+Arco 297: LP0308 → LS0972
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       1809.3937
+
+Arco 298: LS0972 → GG0348
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       260.6328
+
+Arco 299: GG0348 → LP0350
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       206.3108
+
+Arco 300: LP0350 → LP0352
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       294.7072
+
+Arco 301: LP0352 → LP0354
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       295.7011
+
+Arco 302: LP0354 → LP0356
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       402.3804
+
+Arco 303: LP0356 → LP0948
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       188.0822
+
+Arco 304: GQ0399 → MR0401
+  Probabilità: 1.0000%
+  Risk:        0.0101
+  Costo:       506.9413
