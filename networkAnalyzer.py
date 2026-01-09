@@ -3,9 +3,7 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 from shapely.geometry import Point, LineString
-import matplotlib.pyplot as plt
 import folium
-from folium import plugins
 
 class TransportNetworkAnalyzer:
     """
